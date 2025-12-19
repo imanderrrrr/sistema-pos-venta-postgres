@@ -113,6 +113,108 @@ El código completo puede ser compartido de forma privada para procesos de reclu
 
 ---
 
+## Imágenes del Sistema
+
+<table>
+	<tr>
+		<td>
+			<figure>
+				<img src="Backend/images/login-armon%C3%ADa.png" alt="Login" width="360" />
+				<figcaption>Login</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/dashboard-armonia.png" alt="Dashboard" width="360" />
+				<figcaption>Dashboard</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/inventario%20.png" alt="Inventario" width="360" />
+				<figcaption>Inventario</figcaption>
+			</figure>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<figure>
+				<img src="Backend/images/caja-armonia.png" alt="Caja" width="360" />
+				<figcaption>Caja</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/caja-cerrada.png" alt="Cerrar caja" width="360" />
+				<figcaption>Cerrar caja</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/historial-de-ventas.png" alt="Historial de ventas" width="360" />
+				<figcaption>Historial de ventas</figcaption>
+			</figure>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<figure>
+				<img src="Backend/images/devoluciones.png" alt="Devoluciones" width="360" />
+				<figcaption>Devoluciones</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/reportes.png" alt="Reportes" width="360" />
+				<figcaption>Reportes</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/generador-etiquetas.png" alt="Generador de etiquetas" width="360" />
+				<figcaption>Generador de etiquetas</figcaption>
+			</figure>
+		</td>
+	</tr>
+</table>
+
+### Extras
+
+<table>
+	<tr>
+		<td>
+			<figure>
+				<img src="Backend/images/alerta-stock.png" alt="Alerta de stock" width="360" />
+				<figcaption>Alerta de stock</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/configuraci%C3%B3n.png" alt="Configuración" width="360" />
+				<figcaption>Configuración</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="Backend/images/pedidos-especiales.png" alt="Pedidos especiales" width="360" />
+				<figcaption>Pedidos especiales</figcaption>
+			</figure>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<figure>
+				<img src="Backend/images/cerrar-caja.png" alt="Cerrar caja (proceso)" width="360" />
+				<figcaption>Cerrar caja (proceso)</figcaption>
+			</figure>
+		</td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+---
+
 ## Autor
 
 Anderson Aguirre  
